@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/JohnMwendwa/stats-preview-card](https://github.com/JohnMwendwa/stats-preview-card)
+- Live Site URL: [https://johnmwendwa.github.io/stats-preview-card/](https://johnmwendwa.github.io/stats-preview-card/)
 
 ## My process
 
